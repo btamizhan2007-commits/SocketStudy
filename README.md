@@ -116,9 +116,7 @@ client_socket.close()
 ```
 
 ## output
-<img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/254b60f4-ca48-4d2c-acbf-75b028c7e9c0" />
-<img width="1914" height="1071" alt="image" src="https://github.com/user-attachments/assets/21a52a2a-21a0-4b3c-9856-543c0b2bb919" />
-
+<img width="1918" height="1073" alt="Screenshot 2026-05-14 091252" src="https://github.com/user-attachments/assets/720c3fb5-08de-4e53-85ec-1f1745c4e1f0" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
